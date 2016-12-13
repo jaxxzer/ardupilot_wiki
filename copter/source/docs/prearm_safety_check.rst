@@ -69,7 +69,7 @@ metal in the board that is causing the large offsets and this may not
 actually be a problem in which case you may wish to disable the compass
 check.
 
-**Check mag field** : the sensed magnetic field in the area is 35%
+**Check mag field** : the sensed magnetic field in the area is 65%
 higher or  lower than the expected value.  The expected length is 530 so
 it's > 874 or < 185.  Magnetic field strength varies around the world
 but these wide limits mean it's more likely the :ref:`compass calibration <common-compass-calibration-in-mission-planner>` has not
